@@ -1,0 +1,9 @@
+{
+    "command" : [
+        "curl",
+        "https://24mx-ie-inttest01.pierce-ecom.com",
+        "-H",
+        "'Accept: application/json'"
+    ],
+    "expected_status": "200"
+}
